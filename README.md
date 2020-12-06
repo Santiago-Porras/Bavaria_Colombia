@@ -1,12 +1,12 @@
 # Reto Colombia
 
-En Bavaria queremos encontrar la mejor estrategia de impulso, mantenimiento o frenado, de un listado de marcas establecido, con el objetivo de ofrecer el mejor portafolio a nuestros puntos de venta/zonas dependiendo de sus características e historial de compra.​
+En Bavaria quieren encontrar la mejor estrategia de impulso, mantenimiento o frenado, de un listado de marcas establecido, con el objetivo de ofrecer el mejor portafolio a los puntos de venta/zonas dependiendo de sus características e historial de compra.​
 
 ## ¿Qué construir?
 
 El objetivo es encontrar la probabilidad de que un cliente compre cada una de las marcas dadas, con el fin de asignar la estrategia adecuada a cada uno de ellos.​
 
-Para esto deberás crear un modelo que estimé dicha probabilidad para cada una de las 5 marcas que se van a listar.​
+Para esto se creará un modelo que estimé dicha probabilidad para cada una de las 5 marcas que se van a listar.​
 
 ![contexto-1](img/contexto-1.png)
 
@@ -48,8 +48,7 @@ Para esto deberás crear un modelo que estimé dicha probabilidad para cada una 
 4.	Marca_Inno1: Marca_38- Cupo_2 -CapacidadEnvase_10
 5.	Marca_Inno2: Marca_39-Cupo_2-CapacidadEnvase_10
 
-## ¿Qué enviar?
+## ¿Cuáles son los entregables?
 
 1. El output requerido completo.csv​
-2. Código completo de la construcción de la solución (únicamente R o Python – no evaluaremos códigos en software comerciales).link de github​
-3. Una presentación a detalle de la metodología usada para resolver el problema, el modelo aplicado,  consideraciones y resultados obtenidos. (Máximo 5 diapositivas).​
+2. Una presentación a detalle de la metodología usada para resolver el problema, el modelo aplicado,  consideraciones y resultados obtenidos.​
