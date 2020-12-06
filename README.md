@@ -1,4 +1,4 @@
-# Bavaria Colombia
+# Reto Colombia
 
 En Bavaria queremos encontrar la mejor estrategia de impulso, mantenimiento o frenado, de un listado de marcas establecido, con el objetivo de ofrecer el mejor portafolio a nuestros puntos de venta/zonas dependiendo de sus características e historial de compra.​
 
