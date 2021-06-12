@@ -41,3 +41,9 @@ Para esto se creará un modelo que estimé dicha probabilidad para cada una de l
 
 1. El output requerido completo.csv​
 2. El modelo aplicado,  consideraciones y resultados obtenidos.​
+
+## Formato del entregable:
+
+- Se debe entregar un csv o xlsx bajo la siguiente estructura: Evidenciando la probabilidad de compra por cada cliente para el siguiente mes.
+
+![contexto-2](img/contexto-2.png)
