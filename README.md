@@ -10,10 +10,11 @@ El objetivo es encontrar la probabilidad de que un cliente compre cada una de la
 Para esto se creará un modelo que estimé dicha probabilidad para cada una de las 5 marcas que se van a listar.​
 
 ![contexto-1](img/contexto-1.png)
+![contexto-3](img/contexto-3.png)
 
 ## Explicación Datasets
 
-**input1_clientes_estructura.csv** = Tabla de clientes con las características de su punto de venta y ubicación.
+**BaseConsolidada.csv** = Tabla de clientes con las características de su punto de venta y ubicación.
 
 - Cliente	: Id del Establecimiento (Llave primaria)
 - Regional2: Región donde se encuentra ubicado (Conjunto de departamentos)
@@ -21,10 +22,6 @@ Para esto se creará un modelo que estimé dicha probabilidad para cada una de l
 - SubCanal2: Tipo de establecimiento: (Tienda, Bar, etc)	
 - Categoria: Variable definida por AB-Inbev para calificar la importancia de un establecimiento dada su compra histórica. 	
 - Nevera: Variable dummie que me permite ver si el establecimiento tiene o no una nevera en su punto de venta.
-
-
-**input2_clientes_venta.7z** = Base de historia de compra por marca-cupo-capacidad_envase por establecimiento, de los últimos meses.
-
 - Año: Año en el que se realiza la compra
 - Mes: Mes en el que se realiza la compra
 - Cliente: Id del establecimiento
@@ -39,7 +36,7 @@ Para esto se creará un modelo que estimé dicha probabilidad para cada una de l
 
 ## ¿Cuáles son los entregables?
 
-1. El output requerido completo.csv​
+1. El output requerido completo.
 2. El modelo aplicado,  consideraciones y resultados obtenidos.​
 
 ## Formato del entregable:
