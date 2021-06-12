@@ -11,8 +11,6 @@ Para esto se creará un modelo que estimé dicha probabilidad para cada una de l
 
 ![contexto-1](img/contexto-1.png)
 
-![contexto-2](img/contexto-2.png)
-
 ## Explicación Datasets
 
 **input1_clientes_estructura.csv** = Tabla de clientes con las características de su punto de venta y ubicación.
@@ -39,17 +37,7 @@ Para esto se creará un modelo que estimé dicha probabilidad para cada una de l
 - nr: NetRevenue que dejó la venta a la compañía.
 
 
-**input3_clientes_test.csv** = Clientes a los que les calculará la probabilidad de compra en octubre de cada una de las marcas dadas (mas adelante), se recibiran solamente los clientes de esta tabla y su score correspondiente para las siguientes marcas: 
-
-> Respetar el orden - **OBLIGATORIO**
-
-1.	Marca1: Marca_20 - Cupo_3 - CapacidadEnvase_9
-2.	Marca2: Marca_16- Cupo_2 - CapacidadEnvase_10
-3.	Marca3: Marca_9-Cupo_3-CapacidadEnvase_12
-4.	Marca_Inno1: Marca_38- Cupo_2 -CapacidadEnvase_10
-5.	Marca_Inno2: Marca_39-Cupo_2-CapacidadEnvase_10
-
 ## ¿Cuáles son los entregables?
 
 1. El output requerido completo.csv​
-2. Una presentación a detalle de la metodología usada para resolver el problema, el modelo aplicado,  consideraciones y resultados obtenidos.​
+2. El modelo aplicado,  consideraciones y resultados obtenidos.​
