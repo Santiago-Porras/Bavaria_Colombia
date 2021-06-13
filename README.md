@@ -12,6 +12,42 @@ Para esto se creará un modelo que estimé dicha probabilidad para cada una de l
 ![contexto-1](img/contexto-1.png)
 ![contexto-3](img/contexto-3.png)
 
+## Instrucciones:
+
+Nuestro modelo es muy sencillo de entender y además está explicado para dummies 🤓!
+
+\
+
+1. En el repositorio [ver link](https://github.com/Santiago-Porras/Bavaria_Colombia) hay un notebook en la siguiente ruta:
+
+
+```
+# Bavaria_Colombia/data/01_MODELO.ipynb
+```
+\
+2. Todas las fuentes están alojadas en un solo repositorio Git Hub, así que no se deben agregar más fuentes ni conexiones 👍👍
+
+\
+
+3. Ejecútalas y a continuación estarán descritos uno a uno los pasos para el análisis y los conceptos utilizados junto con cada uno de los algoritmos y las pruebas.
+
+\
+
+4. 🎁 Por último se carga la base limpia y se hace la predicción para el mes de Octubre que es lo requerido y finalmente la exportas en excel bajo el nombre **PrediccionesOctubre.xlsx**
+
+\
+
+5. 💰 Estas predicciones ya nos brindarán información confiable de la predicción de compra de los clientes para el mes siguiente, en este caso, octubre.
+
+\
+
+6. 🧐 En referencia a las validaciones, hay un notebook en el repositorio [ver link](https://github.com/Santiago-Porras/Bavaria_Colombia) con el siguiente nombre:
+
+```
+# Bavaria_Colombia/data/02_VALIDACIONES.ipynb
+```
+
+
 ## Explicación Datasets
 
 **BaseConsolidada.csv** = Tabla de clientes con las características de su punto de venta, ubicación e histórico de compra
@@ -52,3 +88,18 @@ Para esto se creará un modelo que estimé dicha probabilidad para cada una de l
 - Se encuentra en este mismo repositorio, en la ruta: Bavaria_Colombia\data\Validacion_ProbPredic_Para_Septiembre.xlsx
 
 ![contexto-5](img/contexto-5.png)
+
+
+
+Gracias !
+
+Estos son nuestros datos para que nos contactes:
+
+---
+* Santiago Porras Ceferino
+* santiago.porras@udea.edu.co
+* +57 321 356 2739
+---
+* Sergio Espinal Patiño
+* sergio.espinal@udea.edu.co
+* +57 311 311 5213
