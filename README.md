@@ -44,3 +44,11 @@ Para esto se creará un modelo que estimé dicha probabilidad para cada una de l
 - Se debe entregar un csv o xlsx bajo la siguiente estructura: Evidenciando la probabilidad de compra por cada cliente para el siguiente mes.
 
 ![contexto-2](img/contexto-2.png)
+
+
+## Resultados del modelo:
+
+- Una vez entrenado y validado el modelo, este fue el resulado de las predicciones junto con su validación:
+- Se encuentra en este mismo repositorio, en la ruta: Bavaria_Colombia\data\Probabilidades_RFC_Para_Octubre.xlsx
+
+![contexto-4](img/contexto-4.png)
