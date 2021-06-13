@@ -14,7 +14,7 @@ Para esto se creará un modelo que estimé dicha probabilidad para cada una de l
 
 ## Explicación Datasets
 
-**BaseConsolidada.csv** = Tabla de clientes con las características de su punto de venta y ubicación.
+**BaseConsolidada.csv** = Tabla de clientes con las características de su punto de venta, ubicación e histórico de compra
 
 - Cliente	: Id del Establecimiento (Llave primaria)
 - Regional2: Región donde se encuentra ubicado (Conjunto de departamentos)
