@@ -49,6 +49,6 @@ Para esto se creará un modelo que estimé dicha probabilidad para cada una de l
 ## Resultados del modelo:
 
 - Una vez entrenado y validado el modelo, este fue el resulado de las predicciones junto con su validación:
-- Se encuentra en este mismo repositorio, en la ruta: Bavaria_Colombia\data\Probabilidades_RFC_Para_Octubre.xlsx
+- Se encuentra en este mismo repositorio, en la ruta: Bavaria_Colombia\data\Validacion_ProbPredic_Para_Septiembre.xlsx
 
 ![contexto-5](img/contexto-5.png)
